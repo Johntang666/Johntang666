@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/java-1.0-brightgreen)
 ![](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
-
+<!-- 
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Hemant</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
@@ -148,5 +148,5 @@ Here are some ideas to get you started:
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</p> -->
 
